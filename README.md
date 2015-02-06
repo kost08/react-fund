@@ -2,8 +2,8 @@
 
 Middleware:
 
-*koa-route: Routing
+* koa-route: Routing
 
-*koa-static: Serving static files
+* koa-static: Serving static files
 
-*koa-swig: Rendering views
+* koa-swig: Rendering views
