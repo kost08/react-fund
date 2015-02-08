@@ -29,3 +29,6 @@ node_modules
 # MongoDB
 data
 mongod
+
+# Grunt
+.module-cache
